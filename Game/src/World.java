@@ -58,4 +58,7 @@ public class World {
     //      return (int) (Math.random() * (worldDimension - 2) + 1);
     // }
 
+    // void on tagastustüüp ehk mis tüüp järgneb return kirjele
+    // void tähendab, et ei tagastatagi midagi
+
 }
